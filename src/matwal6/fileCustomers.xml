@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<customers>
+    <customer id="1">
+        <name>Wallgren</name>
+        <surname>Mats</surname>
+        <pNo>998877</pNo>
+    </customer>
+    <customer id="2">
+        <name>Anderssons</name>
+        <surname>Ann</surname>
+        <pNo>123456</pNo>
+    </customer>
+    <customer id="3">
+        <name>Bengtssons</name>
+        <surname>Bo</surname>
+        <pNo>223456</pNo>
+    </customer>
+</customers>

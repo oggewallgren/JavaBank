@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<accounts>
+    <account id="1">
+        <accountId>1001</accountId>
+        <balance>100.0</balance>
+        <pNo>123456</pNo>
+        <accountType>Sparkonto</accountType>
+    </account>
+    <account id="2">
+        <accountId>1002</accountId>
+        <balance>200.0</balance>
+        <pNo>223456</pNo>
+        <accountType>Sparkonto</accountType>
+    </account>
+    <account id="3">
+        <accountId>1003</accountId>
+        <balance>300.0</balance>
+        <pNo>123456</pNo>
+        <accountType>Kreditkonto</accountType>
+    </account>
+    <account id="4">
+        <accountId>1004</accountId>
+        <balance>1400.0</balance>
+        <pNo>223456</pNo>
+        <accountType>Kreditkonto</accountType>
+    </account>
+    <account id="5">
+        <accountId>1005</accountId>
+        <balance>1000.0</balance>
+        <pNo>998877</pNo>
+        <accountType>Sparkonto</accountType>
+    </account>
+</accounts>
